@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://goo.gl/62FnVk' target='_blank'><img src='https://3.bp.blogspot.com/-raS3Pbt6Uik/V6hh2H9cjYI/AAAAAAAAABI/BcPRc0OpJWcXXZoYRJPW9tzZjd6yPek9gCPcB/s320/Vespa-tra-gop.jpg' width='500px'/><br/>HOTLINE 090 939 7146</a>- SẮM VESPA CHÍNH HÃNG <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://goo.gl/62FnVk' target='_blank'><img src='http://i419.photobucket.com/albums/pp272/kethutinh/vespa%20chinh%20hang_zpsolkle0h6.jpg' width='500px'/><br/>HOTLINE 090 939 7146</a>- SẮM VESPA CHÍNH HÃNG <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
